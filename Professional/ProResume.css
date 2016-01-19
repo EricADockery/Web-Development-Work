@@ -1,0 +1,124 @@
+body
+{
+	background-size: 100%;
+}
+#Navi ul
+{
+	list-style: none;
+	margin:0 auto;
+	padding: 0;
+	border:0;
+	outline: 0;
+	width:1000px;
+	font-size: 100%;
+	background: transparent;
+	text-align: left;
+	line-height: normal;
+
+
+} 
+#Navi li
+{
+	margin:10px 40px auto;
+	padding: 0;
+	border:0;
+	outline: 0;
+	width:75px;
+	font-size: 100%;
+	background: transparent;
+	float:left;
+	list-style: none;
+	line-height: normal;
+
+}
+#Navi a 
+{
+	display: block;
+	height: 20px;
+	margin-right: 1px;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 16px;
+	font-weight: normal;
+	color: black;
+	border:2px;
+	border-color: green;
+}
+#Navi a:hover
+{
+	background-color: green;
+}
+#Currentlocation
+{
+	background-color: green;
+
+}
+
+#Main
+{
+	width:100%;
+	text-align:left;
+	font-size:100%;
+	height:5em;
+}
+#Navi
+{
+	width: 900px;
+	height: 60px;
+	margin: 0 auto;
+	background-color: lightgreen;
+	border-radius:25px;
+	border-bottom-right-radius: 0px;
+	border-bottom-left-radius: 0px;
+
+}
+#MainFrame
+{
+	width:1000px;
+	height:800px;
+	margin:0 auto;
+	background-color: lightgreen;	
+	border-radius:25px;
+
+
+}
+#image
+{
+	margin-top: 5px;
+	margin-left:15px;
+	float:left;
+	height:300px;
+	width:250px;
+}
+#Aboutme
+{
+	text-align: center;
+	float:left;
+	height:200px;
+	width: 400px;
+
+
+}
+#Home
+{
+	font-family:"Times New Roman";
+	font-size: 16px;
+	height:315px;
+	width:100%;
+	border-radius:25px;
+	text-align: left;
+	float:left;
+
+}
+#Homeunderline
+{
+	font-family:"Times New Roman";
+	font-size: 16px;
+	height:325px;
+	width:100%;
+	border-bottom:3px solid;
+	border-color: red;
+	text-align: center;
+	float:left;
+
+}

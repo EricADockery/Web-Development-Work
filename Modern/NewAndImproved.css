@@ -1,0 +1,36 @@
+body
+{
+	    min-width: 400px; max-width:800px; margin: 0px auto;
+
+}
+header h1 {
+    font-size: 36px; margin: 0px;
+}
+
+header h2 {
+    font-size: 18px; margin: 0px; color:green;
+    font-style: italic;
+}
+
+nav ul {
+    list-style: none; padding: 0px; display: block;
+    clear: right; background-color:#FF5B19;
+    padding-left: 4px; height: 24px; width:700px;
+}
+
+nav ul li {
+    display: inline; padding: 0px 20px 5px 10px;
+    height: 24px; border-right: 1px solid #ccc;
+}
+
+nav ul li a {
+    color: white; text-decoration: none;
+    font-size: 13px; font-weight: bold;
+}
+
+nav ul li a:hover {
+    color: #EFD3D3;
+}
+article{
+    height:1500px;
+}

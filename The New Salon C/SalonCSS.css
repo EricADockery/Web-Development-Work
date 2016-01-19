@@ -1,0 +1,170 @@
+
+body{
+	background-image:url("http://www.ankahair.co.uk/wpimages/wp4903ddbd_06.jpg");
+}
+
+#MainServ{
+		
+    max-width:1000px;
+    margin: 0 auto;
+    color:#000000;
+    font-family:"Trebuchet MS", Helvetica, sans-serif;
+    background-color:#FFFFFF;
+}
+#Main{
+	background-color:#FFFFFF;
+	width:60em;
+    margin: 0 auto;
+    color:#000000;
+    font-family:"Trebuchet MS", Helvetica, sans-serif;
+
+}
+#Title{
+	text-align:center;
+
+}
+#Navigation{
+	text-align:center;
+	background-color: #FFFFFF;
+}
+#Middlehomepage{
+	background-color: #FFFFFF;
+	height:40%;
+	vertical-align: fixed;
+	width:75%;
+
+
+}
+#image1{
+	float:left;
+	width:45%;
+	margin-left: 1em;
+
+}
+#Textaboutshop{
+	text-align: center;
+	float:left;
+	width:35%;
+	background-color:#FFFFFF;
+
+}
+#body{
+	height:50%;
+}
+
+#image2{
+	float:right;
+	width:10%;
+}
+#Bottomhomepage{
+	height:65%;
+	vertical-align: fixed;
+	width:75%;
+	background-color: #FFFFFF;
+
+}
+#Carolpic{
+	clear:both;
+	width:45%%;
+	float:left;
+	margin-left: 1em;
+}
+#Carolinfo{
+	width:40%;
+	float:left;
+	text-align:center;
+background-color:#FFFFFF;
+}
+#Chemical{
+	float:left;
+	width:20em;
+	margin-left: 1em;
+background-color:#FFFFFF;
+}
+#ChemicalItems{
+	float:left;
+	width:10em;	
+}
+#ChemicalPrices{
+	float:right;
+	width:8em;
+}
+#Perms{
+	clear:both;
+	float:left;
+	width:15em;
+background-color:#FFFFFF;
+}
+#PermTypes{
+	float:left;
+	width:5em;
+}
+#PermCost{
+	float:right;
+	width:7em;
+}
+#HairExtensions{
+	margin-left: 7em;
+	float:left;
+	width:15em;
+background-color:#FFFFFF;
+}
+#ExtensionTypes{
+	float:left;
+	width:50%;
+}
+#ExtensionCost{
+	float:right;
+	width:50%;
+}
+#HairCuts{
+	text-align:center;
+	float:left;
+	width:16em;
+background-color:#FFFFFF;
+}
+#HairCutTypes{
+	float:left;
+	width:10em;
+}
+#HairCutPrices{
+	float:right;
+	width:3em;
+}
+#Other{
+	float:left;
+	width:15em;
+	margin-left:3em;
+background-color:#FFFFFF;
+}
+#OtherItems{
+	float:left;
+	width:50%;
+}
+#OtherCosts{
+	float:right;
+	width:50%;
+}
+#Contact{
+	width:60em;
+	height:25em;
+	background-color: #FFFFFF;
+}
+
+#Phone{
+	margin-left: 10em;
+	margin-right: 5em;
+	width:10em;
+	float:left;
+background-color:#FFFFFF;
+}
+#Hours{
+	width:20em;
+	float:left;
+background-color:#FFFFFF;
+}
+#ServicesBody{
+	background-color: #FFFFFF;
+	max-width: 60em;
+	height: 40em;
+}
